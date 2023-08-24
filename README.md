@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusBastidas&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JesusBastidas&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JesusBastidas&theme=dark)&nbsp;&nbsp;
